@@ -27,11 +27,8 @@
         <%= f.button "Login", class: "ui orange submit button" %>
       <% end %>
     </div>
-    <div class="middle aligned column">
-      <div class="ui big orange button">
-        <i class="signup icon"></i>
-        Sign Up
-      </div>
+    <div class="middle aligned column">        
+        <%= link_to '<i class="signup icon"></i> Sign Up'.html_safe, signup_path, class: "ui button orange" %>
     </div>
   </div>
   <div class="ui vertical divider">
