@@ -1,11 +1,8 @@
 # Message me app - Group chat with your friends
 
-> Track and group your expenses for better management of your finances. Built for the final Ruby on Rails Capstone project.
+> Chat with your friends in a global chatroom!
 
-![screenshot](app/assets/images/home-page.jpeg)
-![screenshot](app/assets/images/group-page.jpeg)
-![screenshot](app/assets/images/home-page.jpeg)
-![screenshot](app/assets/images/your-groups.jpeg)
+![screenshot](app/assets/images/message-me-log-in.png)
 
 Created with Ruby on Rails.
 
